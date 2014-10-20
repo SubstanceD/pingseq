@@ -56,4 +56,6 @@ To tap into the sequencer, create a **r pingseqout** object anywhere in another 
 
 - Physics and impulse for each node.
 
+- Stand alone and Max for Live versions
+
 - Windows compatibility/compilation/testing?
