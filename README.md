@@ -52,6 +52,10 @@ To tap into the sequencer, create a **r pingseqout** object anywhere in another 
 
 - Chain sequences together
 
+- Single Loop function (only loop once and then stop from trigger)
+
+- Animations for triggered nodes/interactions.
+
 - Multiple layers (each with different timing ratio)
 
 - Physics and impulse for each node.
