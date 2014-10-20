@@ -56,9 +56,13 @@ To tap into the sequencer, create a **r pingseqout** object anywhere in another 
 
 - Animations for triggered nodes/interactions.
 
+
 - Multiple layers (each with different timing ratio)
 
 - Physics and impulse for each node.
+
+- Lines/other shapes
+
 
 - Stand alone and Max for Live versions
 
