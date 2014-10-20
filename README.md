@@ -33,10 +33,9 @@ A sweep is generated-- like a sonar sweep, across a board. Every time the sweep'
 - Drag a node out of the largest circle to remove the node.
 
 
-
 #Installation
 
-For Kewl Font action (and so you don't break anything) install [Share Tech Mono](http://www.google.com/fonts/specimen/Share+Tech+Mono) from google fonts.
+For Kewl Font action (and so you don't break anything) install [Share Tech Mono](http://www.google.com/fonts/specimen/Share+Tech+Mono) from Google Fonts.
 
 Requires Max 6.
 
@@ -48,5 +47,13 @@ To tap into the sequencer, create a **r pingseqout** object anywhere in another 
 - Decouple rendering from sequence
   - the triggered notes should be on the high-priority thread, while the rendering should be on the low-priority thread in Max.
   - Or, the sequence could be held in a coll object, so it is all max native calls to trigger elements
+
+- Save/Recall sequences
+
+- Chain sequences together
+
+- Multiple layers (each with different timing ratio)
+
+- Physics and impulse for each node.
 
 - Windows compatibility/compilation/testing?
