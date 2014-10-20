@@ -2,9 +2,9 @@
 	"name" : "pingseq",
 	"version" : 1,
 	"creationdate" : -798389997,
-	"modificationdate" : -798389948,
+	"modificationdate" : -798386515,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
-	"autoorganize" : 1,
+	"autoorganize" : 0,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
@@ -16,22 +16,22 @@
 				"toplevel" : 1
 			}
 ,
-			"count-bang.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"DblBang.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"generateGrid.maxpat" : 			{
+			"count-bang.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
 			"smooth-line.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"generateGrid.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

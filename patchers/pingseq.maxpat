@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 221.0, 78.0, 1012.0, 580.0 ],
+		"rect" : [ 221.0, 78.0, 1064.0, 625.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -190,7 +190,7 @@
 					"patching_rect" : [ 537.0, 959.0, 274.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 3.5, 1.0, 274.0, 20.0 ],
-					"text" : "boom -2.98 0.62 0.05 -0.61 -0.10 -0.00",
+					"text" : "bloop -0.92 0.54 0.20 0.18 -0.29 -0.00",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -294,25 +294,6 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 700.5, 170.484299, 175.0, 20.0 ],
 					"text" : "–––––––––––––––––––––––",
-					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontname" : "Share Tech Mono",
-					"fontsize" : 12.0,
-					"frgb" : 0.0,
-					"id" : "obj-123",
-					"linecount" : 21,
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 922.19751, 1291.492188, 177.0, 304.0 ],
-					"presentation" : 1,
-					"presentation_linecount" : 18,
-					"presentation_rect" : [ 701.5, 339.492157, 288.529053, 250.0 ],
-					"text" : "Notes:\n\nDouble Click to add a node. \n\nClick and drag to move a node. \n\noption-click to resize node\n\nDrag a node out of the circle to remove a node. \n\nData is sent to pingseqout\n\noutput is: \nname | polar theta | polar radius | size | x | y | z\n\n\n",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -766,7 +747,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1094.5, 428.0, 183.0, 18.0 ],
-					"text" : "-0.813365 0.262084 -0.000001"
+					"text" : "-0.072299 0.521156 -0.000001"
 				}
 
 			}
@@ -3125,7 +3106,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1377.418457, 363.0, 177.0, 18.0 ],
-					"text" : "-0.813365 0.262084 -0.000001"
+					"text" : "-0.072299 0.521156 -0.000001"
 				}
 
 			}
@@ -3180,7 +3161,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 995.0, 361.0, 183.0, 18.0 ],
-					"text" : "-0.813365 0.262084 -0.000001"
+					"text" : "-0.072299 0.521156 -0.000001"
 				}
 
 			}
@@ -3221,7 +3202,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1013.0, 242.0, 183.0, 18.0 ],
-					"text" : "-0.813365 0.262084 -0.000001"
+					"text" : "-0.072299 0.521156 -0.000001"
 				}
 
 			}

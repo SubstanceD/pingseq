@@ -30,6 +30,14 @@ A sweep is generated-- like a sonar sweep, across a board. Every time the sweep'
 - Option-Drag to change the size of a node
 - Drag a node out of the largest circle to remove the node.
 
+
+
+#Installation
+
+For Kewl Font action (and so you don't break anything) install [Share Tech Mono](http://www.google.com/fonts/specimen/Share+Tech+Mono) from google fonts.
+
+Requires Max 6.
+
 To tap into the sequencer, create a **r pingseqout** object anywhere in another max window.
 
 
