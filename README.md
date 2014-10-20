@@ -13,12 +13,12 @@ I have intentionally kept a lot of musical generation (things like quantize, pit
 
 
 ###Function
-A sweep is generated-- like a sonar sweep -- across a circular field. Every time the sweep's theta meets the theta of a node it sends a list with that nodes values.
+A sweep is generated-- like a sonar sweep -- across a circular field. Every time the sweep's theta meets the theta of a node it sends a Max list with that nodes values.
 
-###There are 7 values to each node (in order)
-1. name of the node (use route for each node type)
-2. the polar theta value of the node
-3. the polar radius of the node
+###There are 7 values for each node (in order)
+1. name of the node
+2. polar theta (φ) value of the node
+3. polar radius (r) of the node
 4. size of the node
 5. x
 6. y
