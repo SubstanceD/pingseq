@@ -3,7 +3,7 @@ PingSeq v. 0.1
 
 ![splash](https://raw.githubusercontent.com/lindseymysse/pingseq/master/splash.png)
 
-*A Euclidian sequencer for Max MSP 6*
+*A Euclidian, free-form sequencer designed for improvisation in Max/MSP/Jitter.*
 
 #Overview
 
