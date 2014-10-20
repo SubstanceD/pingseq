@@ -9,7 +9,7 @@ PingSeq v. 0.1
 
 This sequencer owes a lot to [Ethan Hein's](http://www.ethanhein.com/wp/my-nyu-masters-thesis/visualizing-rhythm/) ideas about how to represent rythms in a circular way, as opposed to typical western notation.
 
-I have intentionally kept a lot of musical generation (things like quantize, position to note, etc) out of the development to encourage the end user to use the information from the sequencer in their own way.
+I have intentionally kept a lot of musical generation (things like quantize, pitch, etc) out of the sequencer to encourage the end user to use the information from the sequencer in their own way.
 
 
 ###Sequencer Process
