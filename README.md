@@ -12,8 +12,8 @@ This sequencer owes a lot to [Ethan Hein's](http://www.ethanhein.com/wp/my-nyu-m
 I have intentionally kept a lot of musical generation (things like quantize, pitch, etc) out of the sequencer to encourage the end user to use the information from the sequencer in their own way.
 
 
-###Sequencer Process
-A sweep is generated-- like a sonar sweep, across a board. Every time the sweep's theta meets the theta of a node it sends a list with that nodes values.
+###Function
+A sweep is generated-- like a sonar sweep -- across a circular field. Every time the sweep's theta meets the theta of a node it sends a list with that nodes values.
 
 ###There are 7 values to each node (in order)
 1. name of the node (use route for each node type)
@@ -37,7 +37,7 @@ A sweep is generated-- like a sonar sweep, across a board. Every time the sweep'
 
 For Kewl Font action (and so you don't break anything) install [Share Tech Mono](http://www.google.com/fonts/specimen/Share+Tech+Mono) from Google Fonts.
 
-Requires Max 6.
+Requires Max 6 (I think?)
 
 To tap into the sequencer, create a **r pingseqout** object anywhere in another max window.
 ![r pingseqout](https://raw.githubusercontent.com/lindseymysse/pingseq/master/pingseqout.png)
