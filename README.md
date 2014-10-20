@@ -1,6 +1,8 @@
 PingSeq v. 0.1
 =======
 
+![splash][https://raw.githubusercontent.com/lindseymysse/pingseq/master/splash.png]
+
 *A Euclidian sequencer for Max MSP 6*
 
 #Overview
@@ -39,6 +41,7 @@ For Kewl Font action (and so you don't break anything) install [Share Tech Mono]
 Requires Max 6.
 
 To tap into the sequencer, create a **r pingseqout** object anywhere in another max window.
+![r pingseqout][https://raw.githubusercontent.com/lindseymysse/pingseq/master/pingseqout.png]
 
 
 #To Do
