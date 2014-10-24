@@ -47,22 +47,21 @@ To tap into the sequencer, create a **r pingseqout** object anywhere in another 
 - Decouple rendering from sequence
   - the triggered notes should be on the high-priority thread, while the rendering should be on the low-priority thread in Max.
   - Or, the sequence could be held in a coll object, so it is all max native calls to trigger elements
-
 - Save/Recall sequences
 
 - Chain sequences together
 
+- Tempo ratios, syncing to external clock and bars.
+
 - Single Loop function (only loop once and then stop from trigger)
 
 - Animations for triggered nodes/interactions.
-
 
 - Multiple layers (each with different timing ratio)
 
 - Physics and impulse for each node.
 
 - Lines/other shapes
-
 
 - Stand alone and Max for Live versions
 
